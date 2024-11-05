@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "React Node JS Hana DB CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "React",
+    "Hana"
+  ],
+  "author": "John Eswin Nizar",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/hana-client": "^2.22.32",
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
