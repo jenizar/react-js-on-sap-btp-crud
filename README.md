@@ -1,11 +1,11 @@
 # react-js-on-sap-btp-crud
 React JS on SAP BTP Hana db CRUD
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/react-js-on-sap-btp-crud/blob/main/screenshot/pic1.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/react-js-on-sap-btp-crud/blob/main/screenshot/pic2.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/react-js-on-sap-btp-crud/blob/main/screenshot/pic3.png)
 
 folder : backend
 
