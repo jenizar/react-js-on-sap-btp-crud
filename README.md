@@ -18,3 +18,13 @@ folder : client
 $>npx create-react-app .
 
 $>npm install react-router-dom axios
+
+References:
+
+1. https://sapcloudapps.wordpress.com/2024/11/07/react-js-on-sap-btp-hana-db-crud/
+   
+2. https://sapcloudapps.wordpress.com/2024/08/29/react-development-with-sap-business-application-studio/
+   
+3. https://youtu.be/fPuLnzSjPLE?si=Cq8seF-XMviY_BZz
+   
+4. https://stackoverflow.com/questions/4181861/message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git
