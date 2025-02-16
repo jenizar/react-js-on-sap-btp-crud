@@ -10,9 +10,9 @@ app.use(express.json());
 var hana = require('@sap/hana-client');
 var conn = hana.createConnection();
 var conn_params = {
-  serverNode  : '<Hostname:Port>',
-  uid         : '<User ID>',
-  pwd         : '<Password>'
+  serverNode  : 'd6125a3d-1724-4725-8ad9-07f4cd303805.hana.trial-us10.hanacloud.ondemand.com:443',
+  uid         : 'DBADMIN',
+  pwd         : 'Hanadb1_'
 };
 //Create Connection
 conn.connect(conn_params, function(err) {
